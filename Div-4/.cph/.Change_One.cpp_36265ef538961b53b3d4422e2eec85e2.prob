@@ -1,0 +1,1 @@
+{"name":"Local: Change_One","url":"f:\\Codes\\Contests\\CodeChef_Contest\\Div-4\\Change_One.cpp","tests":[{"id":1791995766640,"input":"3\n2\n7 4\n3\n1 4 6\n3\n1 3 6","output":"0\n2\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codes\\Contests\\CodeChef_Contest\\Div-4\\Change_One.cpp","group":"local","local":true}
